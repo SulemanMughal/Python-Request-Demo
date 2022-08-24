@@ -1,7 +1,7 @@
 
 # Python Request Response
 
-Demonstrate a script that send request to a website http://httpbin.org/stream/20 and get a JSON response which is save in a JSON file.
+Demonstrate a script that send request to a website http://httpbin.org/stream/20 and get a response which is save in a JSON file.
 ## Features
 
 - Send a request to a website
