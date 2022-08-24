@@ -21,5 +21,5 @@ There are four steps to web scraping.
     1.  Send Request
     2.  Get Response
     3.  Select Data
-    4.  Extract Data
+    4.  Save Data
 
